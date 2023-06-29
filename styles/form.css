@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-home {
+    background-image: url('../gambar/pink.jpg');
+    height: 95vh;
+    background-size: cover;
+}
+
+nav {
+    background-color: salmon;
+    height: 70px;
+}
+
+nav .left {
+    float: left;
+    width: 70%;
+}
+
+nav .left h1 {
+    margin-left: 5%;
+}
+
+nav .right {
+    float: left;
+}
+
+nav .right ul {
+    list-style: none;
+}
+
+nav .right ul li {
+    display: inline-block;
+    margin-left: 5%;
+    font-size: 18px;
+    margin-top: 1.5%;
+}
+
+nav .right ul li a {
+    text-decoration: none;
+    color: #000;
+    transition: 0.25s;
+}
+
+nav .right ul li a:hover {
+    color: aqua;
+}
